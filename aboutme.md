@@ -16,3 +16,6 @@ Join me on this multifaceted adventure where experiences shape expertise, and th
 
 Cheers to coding, creativity, and the magic that binds it all together!
 
+
+### My story
+
