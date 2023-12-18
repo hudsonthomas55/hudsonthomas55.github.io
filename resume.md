@@ -33,5 +33,14 @@ Motivated and detail-oriented professional with [X years] of experience in [Your
 - Highlight key responsibilities and accomplishments using bullet points.
 
 ## Skills
-- **Programming 
+- **Computer Programming (languages below)
 - **Customer Service
+
+
+## Programming and Scripting Languages
+- **Python
+- **Bash
+- **Ruby
+- **C
+- **Powershell
+- **Perl

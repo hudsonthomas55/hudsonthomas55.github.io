@@ -134,7 +134,7 @@ page-col: "#FFFFFF"           # White background
 text-col: "#404040"           # Dark text color
 link-col: "#008AFF"           # Ravenclaw Blue for links
 hover-col: "#0085A1"          # Slightly darker blue for link hover
-footer-col: "#EAEAEA"         # Light color for the footer
+footer-col: "#CEE7F3"         # Light Ravenclaw Blue for the footer
 footer-text-col: "#777777"    # Darker color for text in the footer
 footer-link-col: "#404040"    # Dark color for links in the footer
 footer-hover-col: "#0085A1"   # Hover color for links in the footer
