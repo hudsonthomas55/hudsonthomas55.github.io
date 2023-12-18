@@ -24,13 +24,14 @@ Motivated and detail-oriented professional with [X years] of experience in [Your
 *AZ-700 - Microsoft Learn Portal*
 
 ## Work Experience
-### [Job Title]
-*Company Name, City, State • Start Date - End Date*
+### Workers' Compensation Claims Adjuster
+*Sedgwick, Remote • January 2022 - Present*
 - Describe your responsibilities and achievements in bullet points.
 
-### [Job Title]
-*Company Name, City, State • Start Date - End Date*
+### Personal Banker / Customer Service Representative
+*Community Trust Bank, Richmond, KY • September 2019 - January 2022*
 - Highlight key responsibilities and accomplishments using bullet points.
 
 ## Skills
 - **Programming 
+- **Customer Service
