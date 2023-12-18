@@ -22,8 +22,7 @@ author: J. Thomas Hudson
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
-  Blog: 
-    paginate_path: "/blog/page:num/"
+  Blog: "/blog"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
