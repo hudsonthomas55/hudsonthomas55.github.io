@@ -16,6 +16,13 @@ Motivated and detail-oriented professional with [X years] of experience in [Your
 *Eastern Kentucky University, Richmond, Kentucky*  
 *Graduation Date: May 2019*
 
+**Certificates / Classes**
+*Network+ - Dion Training - Udemy Learning*
+*Security+ - Dion Training - Udemy Learning*
+*Pentest+ - Dion Training - Udemy Learning*
+*Complete Python Bootcamp - Angela Yu - Udemy*
+*AZ-700 - Microsoft Learn Portal*
+
 ## Work Experience
 ### [Job Title]
 *Company Name, City, State • Start Date - End Date*
