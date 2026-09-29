@@ -1,20 +1,86 @@
----
-layout: home
-title: My Personal Site
-subtitle: Welcome to my site!
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Thomas Hudson</title>
+  <meta name="description" content="Personal site of Thomas Hudson — learning, chess, coding for fun, and outdoor adventures from Richmond, KY." />
+  <link rel="icon" href="favicon.ico" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="index.html">
+        <img src="assets/avatar-icon.png" alt="" width="36" height="36" />
+        Thomas Hudson
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" aria-current="page">Home</a></li>
+        <li><a href="about/index.html">About</a></li>
+        <li><a href="notes/index.html">Notes</a></li>
+        <li><a href="mailto:hudsonthomas55@gmail.com">Email</a></li>
+      </ul>
+    </div>
+  </header>
 
-<br>
-Hello, I'm Thomas, and this is my personal website. I'm passionate about learning, adventure, and my hobbies include coding, ethical hacking, and chess. I use this space to share my thoughts, experiences, and projects. <br> <br>
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow">Richmond, Kentucky</p>
+      <h1>Curious mind. Quiet hobbies. Always learning.</h1>
+      <p class="lede">
+        Hi — I’m Thomas. This is a small personal corner of the internet for the things I enjoy:
+        chess, crochet, tinkering with code, books, brewing, and getting outside when I can.
+      </p>
+      <div class="actions">
+        <a class="btn btn-primary" href="about/index.html">More about me</a>
+        <a class="btn" href="mailto:hudsonthomas55@gmail.com">Say hello</a>
+      </div>
+    </section>
 
-<strong>About Me </strong> <br>
+    <section class="section" aria-labelledby="now-heading">
+      <h2 id="now-heading">What I’m into</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>Chess</h3>
+          <p>Studying games, following the chess world, and slowly getting better one puzzle at a time.</p>
+        </article>
+        <article class="card">
+          <h3>Crochet</h3>
+          <p>Hooks, yarn, and slow handmade projects — another quiet way to make something real.</p>
+        </article>
+        <article class="card">
+          <h3>Coding for fun</h3>
+          <p>Side projects, scripts, and little experiments — learning by building things I actually want to use.</p>
+        </article>
+        <article class="card">
+          <h3>Outdoors</h3>
+          <p>Hiking trails and kayaking when the weather cooperates. Nature is the reset button.</p>
+        </article>
+        <article class="card">
+          <h3>Brewing &amp; books</h3>
+          <p>Homebrew experiments and a standing stack of books. Ravenclaw energy is not a phase.</p>
+        </article>
+      </div>
+    </section>
 
-Learn more <a href="/aboutme">about me</a> to find out about my background, skills, and interests. <br> <br>
+    <section class="section prose" aria-labelledby="notes-heading">
+      <h2 id="notes-heading">Notes</h2>
+      <p>
+        Occasional short posts live on the <a href="notes/index.html">Notes</a> page.
+        No schedule — just when something seems worth writing down.
+      </p>
+    </section>
+  </main>
 
-<strong> Blog </strong> <br>
-
-Explore my latest <a href="/blog">blog</a> posts . I share insights, tutorials, and updates on various topics. <br><br>
-
-
-
-Thank you for visiting, and I hope you enjoy exploring my site!
+  <footer class="site-footer">
+    <div class="wrap footer-row">
+      <p>© <span id="y"></span> Thomas Hudson</p>
+      <div class="footer-links">
+        <a href="mailto:hudsonthomas55@gmail.com">hudsonthomas55@gmail.com</a>
+      </div>
+    </div>
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
